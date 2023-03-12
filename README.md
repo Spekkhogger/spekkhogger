@@ -17,4 +17,4 @@ Feel free to contact me -
 
 [👔 LinkedIN](https://www.linkedin.com/in/ingeborg-sanna-a2805516a/)
 
-[👩‍💻Website][https://famous-capybara-9b460e.netlify.app/]
+[👩‍💻Website](https://famous-capybara-9b460e.netlify.app/)

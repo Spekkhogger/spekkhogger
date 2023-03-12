@@ -12,6 +12,9 @@ Enjoy begin able to use both the logical and creative part of my brain to create
 
 ### Socials
 Feel free to contact me - 
+
 [📸 IG](https://www.instagram.com/ingesanna/)
+
 [👔 LinkedIN](https://www.linkedin.com/in/ingeborg-sanna-a2805516a/)
+
 [👩‍💻Website][https://famous-capybara-9b460e.netlify.app/]

@@ -6,8 +6,7 @@ I'm currently studying front-end development at Noroff. I'm based in Oslo, Norwa
 Enjoy begin able to use both the logical and creative part of my brain to create fun and colorful website. 
 
 ### Currently learning: 
-- JavaScript
-- Bootstrap
+- Tailwind
 - React
 - Cypress
 

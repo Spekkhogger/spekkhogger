@@ -1,14 +1,14 @@
 ## Hello! 🫶
 ### I'm Ingeborg
 
-I'm currently studying front-end development at Noroff. I'm based in Oslo, Norway. 
+Junior front-end developer based in Oslo, Norway. 
 
-Enjoy begin able to use both the logical and creative part of my brain to create fun and colorful website. 
+Enjoy being able to use both the logical and creative part of my brain to create fun and colorful website. 
 
 ### Currently learning: 
 - Tailwind
 - React
-- Cypress
+- Php
 
 ### Socials
 Feel free to contact me - 
@@ -17,4 +17,4 @@ Feel free to contact me -
 
 [👔 LinkedIN](https://www.linkedin.com/in/ingeborg-sanna-a2805516a/)
 
-[👩‍💻Website](https://famous-capybara-9b460e.netlify.app/)
+[👩‍💻Website](https://sanna.codes/)
